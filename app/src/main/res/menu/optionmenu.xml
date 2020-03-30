@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/T1"
+        android:title="Tampilan 1"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/T2"
+        android:orderInCategory="100"
+        android:title="Tampilan 2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/T3"
+        android:orderInCategory="100"
+        android:title="Tampilan 3"
+        app:showAsAction="never" />
+</menu>

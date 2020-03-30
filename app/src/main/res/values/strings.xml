@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="labelapp">PENDAFTARAN</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="btn">Daftar</string>
+    <string name="telp">Telp</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_telp">Masukkan No Telpon</string>
+</resources>
